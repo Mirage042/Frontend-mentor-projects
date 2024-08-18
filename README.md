@@ -17,8 +17,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Mirage042/QR-code-project)
-- Live Site URL: [Add live site URL here](https://mirage042.github.io/QR-code-project/)
+- Solution URL: [Github repo](https://github.com/Mirage042/QR-code-project)
+- Live Site URL: [Github pages](https://mirage042.github.io/QR-code-project/)
 
 ### Built with
 
